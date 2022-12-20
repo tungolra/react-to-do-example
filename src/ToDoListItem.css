@@ -1,0 +1,24 @@
+.ToDoListItem {
+  margin: 4vmin;
+  padding: 2vmin;
+  border: 1vmin solid purple;
+  list-style: none;
+  font-size: 6vmin;
+  display: flex;
+  justify-content: space-between;
+}
+.idx {
+  display: flex;
+  margin-right: 10px;
+  color: white;
+  background-color: black;
+  height: 8vmin;
+  width: 8vmin;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.btn {
+  border-radius: 5px;
+  justify-content: flex-end;
+}
